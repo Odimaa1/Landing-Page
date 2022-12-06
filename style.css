@@ -14,7 +14,6 @@ section{
 .left{
     width: 50%;
     padding-top: 180px;
-    /* padding-left: 50px; */
 }
 main h1{
     width: 90%;
@@ -55,7 +54,6 @@ label input{
     display: flex;
     flex-direction: row;
     align-items: center;
-    /* padding: 16px 12px; */
     padding: 12px 8px;
     gap: 10px;
     background: #FFFFFF;
@@ -74,7 +72,6 @@ label button{
     flex-direction: row;
     justify-content: center;
     align-items: center;
-    /* padding: 16px 24px; */
     padding: 10px 18px;
     color: #FFFFFF;
     gap: 10px;
